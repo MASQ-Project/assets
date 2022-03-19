@@ -15,7 +15,7 @@
         },
         {
             "name": "discord",
-            "url": "https://discord.gg/masq"
+            "url": "https://discord.com/channels/800920941861404733"
         },
         {
             "name": "youtube",
@@ -39,7 +39,6 @@
         }
     ],
     "tags": [
-        "web3",
         "dvpn"
     ]
 }
